@@ -40,7 +40,7 @@ To build this project and to run the sample app you will need a computer with th
 	
 	~~~groovy
     dependencies {
-	    implementation 'com.appliedrec.verid:ui:1.7.4'
+	    implementation 'com.ispiral.verid:ui:1.19.0'
     }
 	~~~
 2. Add RenderScript in your **gradle.build** file:
